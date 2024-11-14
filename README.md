@@ -1,2 +1,3 @@
-# CPP_Reflect
-C++ simple reflection struct generations. Study project.
+# Reflection Study API for C++
+
+Minimal and simple reflection implementation by code generation.
